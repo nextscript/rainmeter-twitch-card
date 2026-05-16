@@ -55,13 +55,13 @@
   Open the <code>.ini</code> file and change the streamer name:
 </p>
 
-<pre><code>Streamer=shlorox</code></pre>
+<pre><code>Streamer=gronkhtv</code></pre>
 
 <p>
   Example:
 </p>
 
-<pre><code>Streamer=papaplatte</code></pre>
+<pre><code>Streamer=streamer name</code></pre>
 
 <h2>🎨 Customization</h2>
 
