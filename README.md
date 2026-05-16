@@ -63,6 +63,10 @@
 
 <pre><code>Streamer=streamer name</code></pre>
 
+<p>
+  <strong>Important:</strong> The streamer name must always be written in lowercase.
+</p>
+
 <h2>🎨 Customization</h2>
 
 <p>You can edit these variables inside the skin file:</p>
